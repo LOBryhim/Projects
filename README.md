@@ -1,3 +1,3 @@
 # Projects
 These are my projects from class which I like to work on and improve as I learn. 
-Milestone 1 is a tic tac toe interactive game which was my first crack at programming and it's interesting to see the growth in my abilities since this code was written.
+Milestone 1 is a tic tac toe interactive game which was my first crack at programming and it's interesting to see the growth in my abilities since this code was written. I am currently seeking a position to transition to data analytics and computer programming. After a brief hiatus of learning new computer language skills to include SQL and Python, I am re-entering the professional world in the data science industry.  As a PM, I am well versed in using Excel for data analysis and visualization and decided to expand my skills.
